@@ -871,3 +871,8 @@ h3.my-profession {
     font-size: 20px;
   }
 }
+
+#project-heading, #courses-heading {
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
